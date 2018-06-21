@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Alpha": {
+      "commandName": "Project",
+      "commandLineArgs": "2018-06-22T08:00:00 2018-06-22T09:00:00"
+    }
+  }
+}
