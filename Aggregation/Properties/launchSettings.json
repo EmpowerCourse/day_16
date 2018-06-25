@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Aggregation": {
+      "commandName": "Project",
+      "commandLineArgs": "4 4 2 2"
+    }
+  }
+}
