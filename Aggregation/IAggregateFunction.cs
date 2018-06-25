@@ -2,8 +2,9 @@
 
 namespace Aggregation
 {
-	public interface IAggregateFunction
-	{
-		void Insert(int value);
-		int Calculate();
+    public interface IAggregateFunction
+    {
+        void Insert(int value);
+        int Calculate();
+    }
 }
