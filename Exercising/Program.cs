@@ -14,6 +14,9 @@ namespace Exercising
             walking.Go();
             cycling.Go();
 
+            var running = new RunningExercise();
+            running.Go();
+
             Console.ReadKey();
         }
     }
