@@ -51,15 +51,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehiclesV2", "VehiclesV2\Ve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp12", "ConsoleApp12\ConsoleApp12.csproj", "{604D05FB-CAE0-480C-92E5-AADAE3FA1CA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercising", "Exercising\Exercising.csproj", "{F4589801-7626-46BB-932E-8C0664E46508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercising", "Exercising\Exercising.csproj", "{F4589801-7626-46BB-932E-8C0664E46508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionsExamples", "ExceptionsExamples\ExceptionsExamples.csproj", "{A61ECDEA-031A-43DC-A1C7-51F6B8DA0BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionsExamples", "ExceptionsExamples\ExceptionsExamples.csproj", "{A61ECDEA-031A-43DC-A1C7-51F6B8DA0BE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsExamples", "CollectionsExamples\CollectionsExamples.csproj", "{99EE9E68-A977-4D61-B73C-BB2FB4CD6242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsExamples", "CollectionsExamples\CollectionsExamples.csproj", "{99EE9E68-A977-4D61-B73C-BB2FB4CD6242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionsExamples", "ActionsExamples\ActionsExamples.csproj", "{202D6F23-414D-47F5-A952-35A27CBB550B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActionsExamples", "ActionsExamples\ActionsExamples.csproj", "{202D6F23-414D-47F5-A952-35A27CBB550B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameCreator", "NameCreator\NameCreator.csproj", "{BF50783D-36D9-482A-B7B8-C1F214F20C3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameCreator", "NameCreator\NameCreator.csproj", "{BF50783D-36D9-482A-B7B8-C1F214F20C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExamples", "LinqExamples\LinqExamples.csproj", "{60A478B9-B5DF-480A-A625-AF459ADF54AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -179,6 +181,10 @@ Global
 		{BF50783D-36D9-482A-B7B8-C1F214F20C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF50783D-36D9-482A-B7B8-C1F214F20C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF50783D-36D9-482A-B7B8-C1F214F20C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A478B9-B5DF-480A-A625-AF459ADF54AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A478B9-B5DF-480A-A625-AF459ADF54AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A478B9-B5DF-480A-A625-AF459ADF54AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A478B9-B5DF-480A-A625-AF459ADF54AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
